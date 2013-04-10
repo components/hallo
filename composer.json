@@ -1,0 +1,37 @@
+{
+    "name": "components/hallo",
+    "description": "Hallo",
+    "type": "component",
+    "homepage": "http://hallojs.org",
+    "license": "MIT",
+    "support": {
+        "issues": "https://github.com/bergie/hallo/issues",
+        "wiki": "https://github.com/bergie/hallo/wiki",
+        "source": "https://github.com/bergie/hallo"
+    },
+    "authors": [
+        {
+            "name": "Henri Bergius",
+            "homepage": "http://bergie.iki.fi"
+        }
+    ],
+    "require": {
+        "components/jquery": ">=1.9.0",
+        "components/jqueryui": "1.*",
+        "components/rangy": "1.*"
+    },
+    "extra": {
+        "component": {
+            "scripts": [
+                "hallo.js"
+            ],
+            "shim": {
+                "deps": [
+                    "jquery",
+                    "jqueryui",
+                    "rangy"
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "hallo",
+  "version": "1.0.2",
+  "main": "./hallo.js",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "1.9.x",
+    "jquery-ui": "1.10.x",
+    "rangy": "*"
+  }
+}
