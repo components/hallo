@@ -18,7 +18,8 @@
     "require": {
         "components/jquery": ">=1.9.0",
         "components/jqueryui": "1.*",
-        "components/rangy": "1.*"
+        "components/rangy": "1.*",
+        "components/jquery-htmlclean": "*"
     },
     "extra": {
         "component": {
