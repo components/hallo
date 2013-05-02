@@ -1,12 +1,16 @@
 {
-  "name": "hallo.js",
+  "name": "hallo",
+  "repo": "components/hallo",
+  "description": "Shim repository for Hallo, the simple rich text editor (contentEditable) for jQuery UI.",
   "version": "1.0.2",
-  "main": "./hallo.js",
   "license": "MIT",
   "dependencies": {
-    "jquery": "1.9.x",
-    "jquery-ui": "1.10.x",
-    "rangy": "*",
-    "jquery-htmlclean": "*"
-  }
+    "components/jquery": "1.9.x",
+    "components/jqueryui": "1.10.x",
+    "components/rangy": "*",
+    "components/jquery-htmlclean": "*"
+  },
+  "scripts": [
+    "hallo.js"
+  ]
 }
