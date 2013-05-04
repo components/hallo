@@ -26,6 +26,9 @@
             "scripts": [
                 "hallo.js"
             ],
+            "files": [
+                "hallo.min.js"
+            ],
             "shim": {
                 "deps": [
                     "jquery",
