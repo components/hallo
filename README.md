@@ -6,5 +6,5 @@ Shim repository for the [Hallo Editor](https://github.com/bergie/hallo)
 Package Managers
 ----------------
 
-* [Bower](http://twitter.github.com/bower/) (`hallo.js`)
-* [Composer](https://packagist.org/packages/components/hallo)
+* [Bower](http://twitter.github.com/bower/): `hallo.js`
+* [Composer](https://packagist.org/packages/components/hallo): `components/hallo`
