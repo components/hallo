@@ -10,6 +10,7 @@
     "components/rangy": "*",
     "components/jquery-htmlclean": "*"
   },
+  "main": "hallo.js",
   "scripts": [
     "hallo.js"
   ]
